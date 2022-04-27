@@ -22,7 +22,7 @@
     },
     "require-dev": {
         "composer/package-versions-deprecated": "^1.11",
-        "phpstan/phpstan": "^0.12",
+        "phpstan/phpstan": "^1.6",
         "phpunit/phpunit": "^8.5 || ^9.5",
         "squizlabs/php_codesniffer": "^3.6",
         "vimeo/psalm": "^4.9"
